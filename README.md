@@ -31,5 +31,6 @@ Engineered an Advanced Excel commercial analytics model to ingest raw sales logs
 ## How to Run & Explore
 1. Download this repository.
 2. Open `Pivot Table & Slicer Directions.xlsx`
-3. Navigate across the workbook tabs to interact with the PivotTables, Slicers, and summarized financial reports.# Advanced-Excel-Marketing-Campaign-Sales-Performance-Analytics
+3. Navigate across the workbook tabs to interact with the PivotTables, Slicers, and summarized financial reports.
+4. # Advanced-Excel-Marketing-Campaign-Sales-Performance-Analytics
 Engineered an Advanced Excel commercial analytics model to ingest raw sales logs, perform multi-level data aggregation, and evaluate multi-channel marketing performance. Features relational data organization, complex PivotTable grouping hierarchies, and interactive reporting to analyze customer acquisition (New vs. Existing) and campaign ROI.
